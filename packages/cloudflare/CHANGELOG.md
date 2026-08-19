@@ -1,5 +1,15 @@
 # @vinext/cloudflare
 
+## 1.0.0-beta.7
+
+### Bug Fixes
+
+- **Web:** consolidate canonical host SEO signals (#2989)
+
+### Contributors
+
+- @james-elicx
+
 ## 1.0.0-beta.6
 
 ### Bug Fixes
